@@ -14,4 +14,4 @@ Modern UI/UX GPT-3 is a fully responsive Open AI website, <br />Responsive for a
 
 ### Demo Screeshots
 
-![Desktop Demo]()
+![Desktop Demo](Images/oole.png)
